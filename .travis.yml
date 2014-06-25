@@ -7,12 +7,11 @@ addons:
 
 before_script:
   - psql -c 'create database angry_kitty_test;' -U postgres
+  - cp config/secrets.yml.travis config/secrets.yml
 
 test:
   adapter: postgresql
   database: angry_kitty_test
   username: postgres
 
-script:
-  - cucumber
-  - rspec
+script: bundle exec rake cucumber

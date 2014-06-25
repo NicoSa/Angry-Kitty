@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/NicoSa/Angry-Kitty.svg?branch=master)](https://travis-ci.org/NicoSa/Angry-Kitty)
 Angry Kitty
 ====
 Let the kitty do the chasing! 
@@ -43,6 +44,7 @@ Technologies used
 - Git
 - Heroku
 - Google Analytics
+- Travis CI
 
 How to run it
 ----
