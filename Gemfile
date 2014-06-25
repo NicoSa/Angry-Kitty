@@ -43,6 +43,7 @@ group :test, :development do
   gem 'launchy'
   gem 'mailcatcher'
   gem 'factory_girl_rails'
+  gem 'rake'
 end
 
 gem "heroku_secrets", github: "alexpeattie/heroku_secrets"

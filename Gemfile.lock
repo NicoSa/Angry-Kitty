@@ -309,6 +309,7 @@ DEPENDENCIES
   poltergeist
   rails (= 4.1.1)
   rails_12factor
+  rake
   rspec-rails
   sass-rails (~> 4.0.3)
   sdoc (~> 0.4.0)
