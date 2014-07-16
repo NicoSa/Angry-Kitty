@@ -79,4 +79,4 @@ We are [Apo], [Dan], [Nico], [Robin], [Scott], [Sroop] and [Will] from the March
 [Nico]:https://github.com/NicoSa
 [Dan]:https://github.com/danldb
 
-[App on Heroku]:http://www.angrykitty.co.uk/users/sign_in
+[App on Heroku]:http://angry-kitty.herokuapp.com/users/sign_in
